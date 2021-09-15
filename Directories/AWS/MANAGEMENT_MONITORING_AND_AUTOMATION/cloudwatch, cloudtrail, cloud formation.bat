@@ -1,0 +1,1 @@
+C:\Users\avivy\GitHub\my-app\Directories\AWS\MANAGEMENT_MONITORING_AND_AUTOMATION

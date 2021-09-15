@@ -1,0 +1,1 @@
+C:\Users\avivy\GitHub\my-app\Directories\GCP\DEDICATED_PRIVATE_NETWORK

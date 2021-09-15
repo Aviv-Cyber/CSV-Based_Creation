@@ -1,0 +1,1 @@
+C:\Users\avivy\GitHub\my-app\Directories\AWS\VIRTUAL_NETWORK_OPTIONS

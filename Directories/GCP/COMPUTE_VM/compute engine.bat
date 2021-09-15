@@ -1,0 +1,1 @@
+C:\Users\avivy\GitHub\my-app\Directories\GCP\COMPUTE_VM

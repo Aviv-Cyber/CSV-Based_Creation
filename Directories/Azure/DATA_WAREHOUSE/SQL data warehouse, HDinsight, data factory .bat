@@ -1,0 +1,1 @@
+C:\Users\avivy\GitHub\my-app\Directories\Azure\DATA_WAREHOUSE
