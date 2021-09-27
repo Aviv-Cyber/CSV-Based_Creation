@@ -1,7 +1,7 @@
 import pandas as pd
 import time as tm
 import os
-
+#this is test line
 df = pd.read_csv(r"C:\Users\avivy\OneDrive\Documents\GitHub\my-app\.CSV\Cloud_Terms.csv", header=None)
 
 A_col = df.iloc[:, 0].values  # Criteria
