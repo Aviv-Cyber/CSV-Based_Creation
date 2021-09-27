@@ -2,7 +2,7 @@ import pandas as pd
 import time as tm
 import os
 #this is test line
-df = pd.read_csv(r"C:\Users\avivy\OneDrive\Documents\GitHub\my-app\.CSV\Cloud_Terms.csv", header=None)
+df = pd.read_csv(r"C:\Users\avivy\GitHub\CSV-Based_Creation\.CSV\Cloud_Terms.csv", header=None)
 
 A_col = df.iloc[:, 0].values  # Criteria
 B_col = df.iloc[:, 1].values  # AWS
@@ -13,7 +13,7 @@ A_List = A_col.tolist()
 B_List = B_col.tolist()
 C_List = C_col.tolist()
 D_List = D_col.tolist()
-os.chdir(r"C:\Users\avivy\OneDrive\Documents\GitHub\my-app\Directories\\")
+os.chdir(r"C:\Users\avivy\GitHub\CSV-Based_Creation\Directories\\")
 parent_dir = os.getcwd()
 
 # for x in B_col, C_col, D_col:
