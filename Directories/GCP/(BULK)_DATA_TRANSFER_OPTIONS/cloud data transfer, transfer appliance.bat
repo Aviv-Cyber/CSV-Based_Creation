@@ -1,0 +1,1 @@
+C:\Users\avivy\GitHub\CSV-Based_Creation\Directories\GCP\(BULK)_DATA_TRANSFER_OPTIONS
