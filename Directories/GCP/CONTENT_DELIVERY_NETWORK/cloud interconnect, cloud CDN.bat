@@ -1,1 +1,0 @@
-C:\Users\avivy\GitHub\my-app\Directories\GCP\CONTENT_DELIVERY_NETWORK

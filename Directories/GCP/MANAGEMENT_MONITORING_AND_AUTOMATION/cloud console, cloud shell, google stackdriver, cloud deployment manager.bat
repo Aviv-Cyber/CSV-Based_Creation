@@ -1,1 +1,0 @@
-C:\Users\avivy\GitHub\my-app\Directories\GCP\MANAGEMENT_MONITORING_AND_AUTOMATION

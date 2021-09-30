@@ -1,1 +1,0 @@
-C:\Users\avivy\GitHub\my-app\Directories\Azure\(BULK)_DATA_TRANSFER_OPTIONS

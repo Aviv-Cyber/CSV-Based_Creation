@@ -1,1 +1,0 @@
-C:\Users\avivy\GitHub\my-app\Directories\AWS\BLOCK_BASED_STORAGE

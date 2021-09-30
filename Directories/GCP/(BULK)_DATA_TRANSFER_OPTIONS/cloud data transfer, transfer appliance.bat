@@ -1,1 +1,0 @@
-C:\Users\avivy\GitHub\my-app\Directories\GCP\(BULK)_DATA_TRANSFER_OPTIONS

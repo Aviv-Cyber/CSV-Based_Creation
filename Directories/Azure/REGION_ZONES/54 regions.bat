@@ -1,1 +1,0 @@
-C:\Users\avivy\GitHub\my-app\Directories\Azure\REGION_ZONES

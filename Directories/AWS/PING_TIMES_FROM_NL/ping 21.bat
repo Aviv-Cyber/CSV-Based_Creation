@@ -1,1 +1,0 @@
-C:\Users\avivy\GitHub\my-app\Directories\AWS\PING_TIMES_FROM_NL
